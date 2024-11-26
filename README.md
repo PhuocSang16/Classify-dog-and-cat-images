@@ -42,8 +42,10 @@ The model is trained using the source.ipynb Jupyter notebook. It leverages the V
 
 You can experiment with different models depending on your performance and resource requirements.
 ![alt text](image-1.png)
+
 ## Running the Demo
 Because the model in use is too large to upload to Github, please download it from the link: [Keras model](https://drive.google.com/file/d/1cTGYfs87G74Z3dithZ885hkstuaHllJW/view?usp=sharing)
+
 Once the model is trained, you can run the demo app with the following command:
 ```bash
 python app.py
